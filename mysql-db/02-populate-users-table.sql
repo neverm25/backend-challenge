@@ -1,0 +1,3 @@
+USE DOCKERIZED;
+INSERT INTO users VALUES(1, "Smith");
+INSERT INTO users VALUES(2, "John");
